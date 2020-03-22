@@ -1,13 +1,13 @@
-# def loli():
-#         print("Esto va primero")
-#         print("Esto va segundo")
-#         print("Por ahora esto va tercero")
+def loli():
+        print("Esto va primero")
+        print("Esto va segundo")
+        print("Por ahora esto va tercero")
 
-# loli()
+loli()
 
-# loli()
+loli()
 
-# loli()
+loli()
 
 
 def suma():
