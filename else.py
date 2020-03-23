@@ -4,7 +4,9 @@ edad_usuario=int(input("Introduce tu edad, por favor "))
 
 if edad_usuario<18:
     print("No puedes pasar")
-else:
+elif edad_usuario>100:
+    print("Edad Incorrecta")
+else:                         # No puede haber un "else" sin su respectivo "if"
     print("Puedes pasar")
 
 print("El programa ha finalizado")
