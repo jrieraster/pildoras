@@ -7,7 +7,7 @@ for i in miEmail:
     elif(i=="."):
         punto=punto+1
 if punto>=1 and arroba==1:
-        print("El Mails es correcto")
+        print("El Mails ES CORRECTO")
 else:
-        print("El mail no es correcto")
+        print("El mail NO ES CORRECTO")
      
