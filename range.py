@@ -7,5 +7,5 @@ for i in range(8,12):
 
 
 
-for i in range(5,50,6):
+for i in range(5,10,2):
     print(f"Valor de la variable = {i}")
