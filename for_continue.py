@@ -6,7 +6,7 @@
 
 
 
-nombre="Pildoras Informaticas 3"
+nombre="Pildoras Informaticas"
 
 contador=0
 for i in nombre:
@@ -16,3 +16,9 @@ for i in nombre:
         continue
 
 print(contador)
+
+
+class MiClase:
+    pass # para implementar mas tarde
+
+print("es cualquiera pass")
