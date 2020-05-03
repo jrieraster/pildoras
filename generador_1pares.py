@@ -11,4 +11,6 @@ def generaPares(limite):
 
     return miLista
 
-print(generaPares(20))
+print(generaPares(10))
+
+
