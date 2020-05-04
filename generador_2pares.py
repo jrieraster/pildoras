@@ -14,7 +14,8 @@ devuelvePares=generaPares(10)  # Genero una variable objeto, donde almaceno el o
 # for i in devuelvePares:
 #     print (i)
 
-print(next(devuelvePares))      # Voy llamando al elemento de la lista que necesito y la función queda en standby
+print(next(devuelvePares))      # Voy llamando al elemento de la lista que necesito y la función queda en 
+                                # standby o  suspensión ahorrando recursos
 
 print("Aquí podría ir más código....")
 
