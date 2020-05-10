@@ -5,4 +5,4 @@ while True:
     if linea == 'fin':
         break
     print(linea)
-print('¡Terminado!')
+print('¡Terminado por fin!')
