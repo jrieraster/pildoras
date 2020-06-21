@@ -1,9 +1,9 @@
-x=a
-x*=3
 
+x=3
+a=x
 print(x)
+print(a)
 
-y=b
-y*=4
+y=4
 
 print(y)
