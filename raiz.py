@@ -14,7 +14,8 @@ while numero<0:
     numero=int(input("Introduce un numero por favor: "))
     if numero<0:
         intentos=intentos+1
+        print("intentos: " + str(intentos))
 
 if intentos<2:
     solucion=math.sqrt(numero)
-    print("La raiz cuadrada de  " + str(numero) + " es " + str(solucion)) 
+    print("La raiz cuadrada de  " + str(numero) + " es " + str(solucion))
