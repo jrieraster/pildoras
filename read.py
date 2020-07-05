@@ -4,10 +4,10 @@
 # file.close()
 
 
-# file=open("yosapa.txt","r")
-# for i in range(5):
-#     print(file.read(4))
-# file.close()
+file=open("yosapa.txt","r")
+for i in range(5):
+    print(file.read(4))
+file.close()
 
 # file=open("yosapa.txt","r")
 # file.read()
@@ -29,4 +29,4 @@
 # print(len(str))
 # file.close()
 
-len(open("yosapa7.txt").readlines())
+# len(open("yosapa7.txt").readlines())
