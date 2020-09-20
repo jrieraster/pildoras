@@ -41,5 +41,6 @@ while(email.endswith("@")==True):
 while(email.startswith("@")==True):
     print("Por favor introduce un correo correcto")
     email=input("Introduce tu email: ")
+    
 print("La direccion de correo es correcta")
 
